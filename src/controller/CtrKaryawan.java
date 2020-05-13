@@ -20,7 +20,7 @@ import model.koneksi;
 
 /**
  *
- * @author Asus
+ * @author nawan44
  */
 public class CtrKaryawan extends Karyawan {
 

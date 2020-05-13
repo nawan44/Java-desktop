@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Asus
+ * @author nawan44
  */
 public class DaftarBarang extends javax.swing.JInternalFrame {
 

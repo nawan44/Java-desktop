@@ -12,7 +12,7 @@ import javax.swing.JTable;
 
 /**
  *
- * @author Asus
+ * @author nawan44
  */
 public class DaftarKaryawan extends javax.swing.JInternalFrame {
 

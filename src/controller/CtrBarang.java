@@ -18,7 +18,7 @@ import model.koneksi;
 
 /**
  *
- * @author Asus
+ * @author nawan44
  */
 public class CtrBarang extends Barang {
 

@@ -12,7 +12,7 @@ import javax.swing.JTable;
 
 /**
  *
- * @author Asus
+ * @author nawan44
  */
 public class DaftarDistributor extends javax.swing.JInternalFrame {
   

@@ -17,7 +17,7 @@ import model.koneksi;
 
 /**
  *
- * @author Asus
+ * @author nawan44
  */
 public class CtrDistributor extends Distributor {
 
