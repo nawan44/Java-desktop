@@ -1,4 +1,4 @@
-<h1> Java Desktop </h1>
+<h1> Java CRUD Desktop </h1>
 
 
 <p><h3>This application contains</h3></p>
